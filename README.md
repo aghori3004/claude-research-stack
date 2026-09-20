@@ -30,7 +30,7 @@ Free ones run first. Paid ones only reach what the free ones cannot.
 ### 1. The skill
 
 ```bash
-git clone https://github.com/<you>/claude-research-stack.git
+git clone https://github.com/aghori3004/claude-research-stack.git
 cp -r claude-research-stack/skills/research-sources ~/.claude/skills/
 ```
 
